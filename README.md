@@ -34,3 +34,6 @@ Entire stores agent sessions alongside commits. An AE (or the agent itself) can 
 `entire explain` on any qualification decision, call brief, or pipeline candidate and get
 a traceable answer grounded in a specific chart, checklist item, or reframe pattern —
 not a mystery score.
+
+Last verified: September 15, 2026
+
